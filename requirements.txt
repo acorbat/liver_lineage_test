@@ -2,4 +2,4 @@ numpy==1.21.*
 matplotlib==3.*
 ipywidgets==7.6.*
 pysb==1.14.*
-bionetgen==2.*
+bionetgen
